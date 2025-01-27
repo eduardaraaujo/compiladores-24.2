@@ -6,7 +6,7 @@
 void yyerror(char*);
 %}
 
-COLOR_RANGE [ \t]*[0-9]{1,2}|1[0-9][0-9]|2[0-4][0-9]|25[0-5]
+COLOR_RANGE [ \t]*[0-9]{1,2}[ \t]*|[ \t]*1[0-9][0-9][ \t]*|[ \t]*2[0-4][0-9][ \t]*|[ \t]*25[0-5][ \t]*
 
 %%
 RGB\(({COLOR_RANGE},{COLOR_RANGE},{COLOR_RANGE})\) {
