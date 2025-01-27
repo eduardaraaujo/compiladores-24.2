@@ -62,7 +62,7 @@ gcc lex.yy.c color.tab.c -o color
   ```
   RGB(255,128,64) COMB RGB(128,64,32)
   ```
-  Resultado: `RGB(127,32,8)`.
+  Resultado: `RGB(128,32,8)`.
 
 - **SUB**: Subtração de cores.
   ```
@@ -93,7 +93,7 @@ Saída esperada:
 ```text
 Resultado = RGB(127,0,127)
 Resultado = RGB(127,127,127)
-Resultado = RGB(0,127,0)
+Resultado = RGB(0,0,0)
 >> Bye!
 ```
 
