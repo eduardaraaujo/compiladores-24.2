@@ -37,6 +37,9 @@ char* subtracao(const char* color1, const char* color2) {
 	int r = (r1 - r2) / 2;
 	int g = (g1 - g2) / 2;
 	int b = (b1 - b2) / 2;
+	if (r < 0) r - 0;
+	if (g < 0) g - 0;
+	if (b < 0) b - 0;
 	char* result = (char*)malloc(20 * sizeof(char));
 	sprintf(result, "RGB(%d,%d,%d)", r, g, b);
 	return result;
