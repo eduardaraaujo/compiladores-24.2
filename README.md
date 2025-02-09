@@ -1,6 +1,6 @@
 # Disciplina: Compiladores-24.2 (CEFET/RJ)
 
-Slide auxiliar <ins>[aqui]([https://pages.github.com/](https://www.canva.com/design/DAGedkecUwA/_BAivVnR9VXPTOd_pGeq_w/view?utm_content=DAGedkecUwA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h24bba7fd12))</ins>.
+Slide auxiliar [aqui](https://www.canva.com/design/DAGedkecUwA/_BAivVnR9VXPTOd_pGeq_w/view?utm_content=DAGedkecUwA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h24bba7fd12).
 
 # Projeto: Manipulação de Cores em C
 
